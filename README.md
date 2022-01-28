@@ -17,12 +17,15 @@
    <img align="center" alt="jocelia-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="jocelia-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="jocelia-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="jocelia-canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-
-
-
-   <img align="right" alt="joh" height="150" src="https://cdn.discordapp.com/attachments/936420968711221278/936421016220082256/WhatsApp_Image_2022-01-27_at_21.10.50.jpeg" style="border-radius:50px;">
+   <img align="center" alt="jocelia-canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><br>
+   <img style="border-radius:50%" align="right" alt="joh" height="150"                  src="https://cdn.discordapp.com/attachments/936420968711221278/936421016220082256/WhatsApp_Image_2022-01-27_at_21.10.50.jpeg">
  
-   </div>
+</div>
+     
+<div>  
+     <a href="https://www.linkedin.com/in/joceliaoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
      
      
+
+   
