@@ -18,7 +18,6 @@
    <img align="center" alt="jocelia-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="jocelia-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="center" alt="jocelia-canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><br>
-   <img align="right" alt="Joh-ft" height="150" style="border-radius:50px;"src="https://corta.link/XsEns">
 </div>
     
  # 
