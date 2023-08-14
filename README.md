@@ -4,7 +4,6 @@
    Eu sou a Jocélia,
    - Desenvolvedora FrontEnd :dart:
    - Formada na 13ª Turma do bootcamp Resilia :bee:
-   - Graduanda em Análise e Desenvolvimento de Sistemas :computer:
    - She, Her, Ela, Dela :woman_student:
 
  
